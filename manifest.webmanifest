@@ -1,0 +1,23 @@
+{
+ "name": "28 Analysis",
+ "short_name": "28 Analysis",
+ "description": "Chess analysis, puzzles, openings and bots. Made by kitaryo28",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#07051a",
+ "theme_color": "#07051a",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
